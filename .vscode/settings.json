@@ -1,0 +1,21 @@
+{
+    "python.testing.pytestArgs": [  "."    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "kanban": {  
+        "canExecute": true,
+        "openOnStartup" : true,
+        " trackTime " : {
+            " type " : " toggl " ,
+            " token " : "7f53e2ef1ae5a6d679d9b7b53005cee3"
+       }
+        
+    },
+    "cSpell.enabled": true,
+    "cSpell.words": [
+        "MTIX",
+        "meutix"
+    ]
+
+}

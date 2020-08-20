@@ -1,0 +1,54 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body main {
+    padding-bottom: 10px;
+    padding-top: 70px;
+    height: 100%;
+}
+
+body main .row .col {
+    padding-bottom: 10px;
+}
+
+.vsckb-markdown {
+    margin: 0;
+    padding: 0;
+}
+
+.vsckb-markdown h1,
+.vsckb-markdown h2,
+.vsckb-markdown h3,
+.vsckb-markdown h4,
+.vsckb-markdown h5,
+.vsckb-markdown h6 {
+    margin: 0;
+    padding: 0;
+}
+
+.vsckb-markdown h1,
+.vsckb-markdown h2,
+.vsckb-markdown h3,
+.vsckb-markdown h4,
+.vsckb-markdown h5,
+.vsckb-markdown h6 {
+    margin-bottom: 4px;
+}
+
+.vsckb-markdown ul.vsckb-task-list {
+    margin: 0 0 4px 0;
+    padding: 0 0 0 4px;
+}
+
+.vsckb-markdown ul.vsckb-task-list li.task-list-item {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.CodeMirror pre {
+    padding-left: 12px;
+}
