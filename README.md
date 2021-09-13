@@ -1,3 +1,3 @@
 # BolsaValor
 
-BolsaValor sistema de automação da bolsa
+Estudo de caso: bolsa de Valor
